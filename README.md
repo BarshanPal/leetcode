@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BarshanPal/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/BarshanPal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BarshanPal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/BarshanPal/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BarshanPal/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/BarshanPal/leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -56,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BarshanPal/leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BarshanPal/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BarshanPal/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BarshanPal/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BarshanPal/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
